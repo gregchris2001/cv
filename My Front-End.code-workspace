@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Flute",
+			"uri": "flute:/"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "My Front-End"
+	}
+}
